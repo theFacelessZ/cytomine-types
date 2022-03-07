@@ -1,5 +1,5 @@
 {
-  "name": "cytomine-client-types",
+  "name": "cytomine-types",
   "version": "1.11.0",
   "types": "./types/index.d.ts",
   "author": "Anthony Lupow <anthony.lupow@gmail.com>",
