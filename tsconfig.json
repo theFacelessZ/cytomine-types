@@ -1,0 +1,11 @@
+{
+  "include": ["./node_modules/cytomine-client/src/**/*"],
+  "compilerOptions": {
+    "rootDir": "./node_modules/cytomine-client/src/",
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "types",
+    "declarationMap": true
+  }
+}

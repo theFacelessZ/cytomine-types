@@ -1,0 +1,17 @@
+{
+  "name": "cytomine-client-types",
+  "version": "1.11.0",
+  "types": "./types/index.d.ts",
+  "author": "Anthony Lupow <anthony.lupow@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "cytomine-client": "^1.11.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  }
+}
