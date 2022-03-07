@@ -1,7 +1,6 @@
 {
   "name": "cytomine-types",
-  "version": "1.11.0",
-  "types": "./types/index.d.ts",
+  "version": "1.11.2",
   "author": "Anthony Lupow <anthony.lupow@gmail.com>",
   "license": "MIT",
   "scripts": {
